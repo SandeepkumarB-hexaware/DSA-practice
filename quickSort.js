@@ -18,4 +18,4 @@ function quickSort(arr){
   
 }
 
-console.log(quickSort([20,-8,6,-2,3])); // [ -8, -2, 3, 20, 6 ]
+console.log(quickSort([20,-8,6,-2,3])); // [ -8, -2, 3, 20, 6 ] O(nLogn)
